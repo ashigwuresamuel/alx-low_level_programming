@@ -1,10 +1,10 @@
-1  #include <stdio.h>
-2    /**
-3    * main - main block
-4    * Return: 0
-5    */
-6  int main(void)
-7   {
-8  print("with proper grammar, but the outcome is a piece of art,");
-9  return (0);
-10  }
+	#include <stdio.h>
+/**
+* main - main block_start point of our code
+* Return: 0 (Success)
+*/
+	int main(void)
+{
+	print("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
+}
