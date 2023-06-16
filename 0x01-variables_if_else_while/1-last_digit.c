@@ -24,7 +24,7 @@ int main(void)
 	else if ((n % 10) < 6 && (n % 10) != 0)
 
 	{
-		print("Last digit of %d is %d and is less than 8 and not 0\m", n, n % 10);
+		printf("Last digit of %d is %d and is less than 8 and not 0\n", n, n % 10);
 	}
 
 	else
