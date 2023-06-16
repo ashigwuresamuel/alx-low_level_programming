@@ -1,10 +1,11 @@
 #include <stdio.h>
+#include <unixstd.h>
 /**
- * main - main block, starting point of our code
- * Return: 1
+ * main - A program that prints a strings,chars, new line and standard erro
+ * Return: 1 successs
  */
-int mian(void)	
+int main(void)
 (
-putc("and that piece of art is useful" - Dora Korpar, 2015-10-19\n", stdout);
+fput("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", stdout);
 return (1);
 )
