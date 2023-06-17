@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Prints all possible different combinations of digits
- * Return: 0'
+ * Return: 0.
  */
 int main(void)
 {
