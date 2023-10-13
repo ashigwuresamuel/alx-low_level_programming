@@ -10,7 +10,7 @@
 int main(int argc, char *argv[])
 {
 int bytes, i;
-har *arr;
+char *arr;
 
 if (argc != 2)
 {
@@ -38,4 +38,4 @@ break;
 printf("%02hhx ", arr[i]);
 }
 return (0);
-}
+i}
