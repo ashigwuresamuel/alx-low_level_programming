@@ -117,7 +117,7 @@ void print_data(unsigned char *e_ident)
  */
 void print_version(unsigned char *e_ident)
 {
-	printf("  Version:                           %d",
+	printf("  Version:             		 %d",
 		   e_ident[EI_VERSION]);
 
 	switch (e_ident[EI_VERSION])
@@ -262,7 +262,7 @@ void close_elf(int elf)
 
 /**
  * main - Displays the information contained in the
- *        ELF header at the start of an ELF files udde.
+ *        ELF header at the start of an ELF files use.
  * @argc: The number of arguments supplied to the program.
  * @argv: An array of pointers to the arguments.
  *
